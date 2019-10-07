@@ -1,2 +1,2 @@
 # art-portfolio
-Collection of some artwork I have created
+Collection of some artwork I have created.
